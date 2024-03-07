@@ -14,7 +14,7 @@ Metadata:
           default: "Instance connection"
         Parameters:
           - InstanceType
-          - KeyName
+          - AbhiRam0109
           - SSHLocation
 Description: 'AWS CloudFormation Sample Template WordPress_Single_Instance: WordPress
   is web software you can use to create a beautiful website or blog. This template
